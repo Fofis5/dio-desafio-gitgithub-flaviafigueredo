@@ -1,0 +1,17 @@
+Anotações do desafio da DIO para criação do primeiro repositório git/github
+
+Clonando repositório criado e editado no Github utilizando o comando "git clone https://github.com/Fofis5/dio-desafio-github-flaviaf-primeiro-repositorio.git"
+
+Criada a pasta "estudos-git" utilizando o comando mkdir + nome que deseja
+
+Listando os arquivos com comando "ls" para ver se a pasta foi realmente criada
+
+Acesso da pasta utilizando o comando "cd estudos-git/", utilizando TAB para autocompletar o nome da pasta
+
+Criando o arquivo "anotacoes-estudos-git.txt", utilizando o comando "echo anotacoes > anotacoes-estudos-git.txt"
+
+Adicionando todos os arquivos e pastas de untracked para tracked, especificamente em staged, utilizando o comando "git add *"
+
+Commitando as modificações utilizando o comando "git commit -m "Adiciona pasta de estudos do git, adiciona arquivo de edição das anotações""
+
+Enviando as modificações para o repositório remoto utilizando o comando "git push origin main"
